@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @klocke1028 and I've just completed a full-stack programming bootcamp (As of August 2024).
 - 👀 I’m interested in front-end programming.
 - 🌱 I’m currently learning more about CSS libraries.
-- 📫 How to reach me katlynlocke1028@gmail.com
+- 📫 How to reach me https://www.linkedin.com/in/katlyn-locke-6276452b0/
 - 😄 Pronouns: She/her/hers
 - ⚡ Fun fact: I am a musician and love video games!
 
